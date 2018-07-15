@@ -1,3 +1,12 @@
+body {
+  align-items: center;
+  background: lightgrey;
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+}
 canvas {
-  background: #000;
+  border: 3px solid blue;
 }
